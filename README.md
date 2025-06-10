@@ -11,7 +11,7 @@
 
 ## 🔭 What I'm Currently Working On
 - 🌟 Front-end & Back-end projects
-- 🚀 Learning Blockchain fundamentals
+- 🚀 Developing skills in Blockchain
 - 🛠️ Improving React, Node.js and MongoDB
 
 ## 👯 Looking to collaborate on:
