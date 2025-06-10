@@ -1,33 +1,37 @@
-# 👋 Hey there, I'm Ibrahim Omar!
+<h1 align="center">👋 Hi, I'm Ibrahim Omar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Code+With+Purpose;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-🚀 A passionate **Full-Stack Developer** with a heart for clean code and meaningful projects.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
 
 ## 🔭 What I'm Currently Working On
-- 🌟 Front-end & Back-end projects for real-world solutions.
-- 🚀 Improving my skills in **React**, **Node.js**, and **MongoDB**.
-- 🎯 Learning Blockchain fundamentals and smart contracts.
+- 🌟 Front-end & Back-end projects
+- 🚀 Learning Blockchain fundamentals
+- 🛠️ Improving React, Node.js and MongoDB
 
-## 👯 I’m looking to collaborate on:
-- Open-source web projects
-- Innovative solutions for communities
+## 👯 Looking to collaborate on:
+- Open-source web apps
+- Solutions for real-world problems
 
-## 💬 Ask me about:
-- Front-End Development (HTML, CSS, JavaScript, React)
-- Full-Stack development
-- Open Source contributions
-
-## 📫 How to reach me:
-- 📧 Email: Ibo.haji44@gmail.com
-- 🐦 Twitter: [@Ibra_Omar101](https://twitter.com/Ibra_Omar101)
+## 📬 Connect with me:
+- 📧 **Email:** Ibo.haji44@gmail.com  
+- 🐦 [**Twitter:** @Ibra_Omar101](https://twitter.com/Ibra_Omar101)
 
 ---
 
 ## 📊 My GitHub Stats:
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-252&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-252&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-252&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-252&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
-### ✨ Code with Purpose 🚀
+## 🚀 Code With Purpose!
+
