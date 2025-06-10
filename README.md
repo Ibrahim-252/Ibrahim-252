@@ -21,6 +21,7 @@
 ## 📬 Connect with me:
 - 📧 **Email:** Ibo.haji44@gmail.com  
 - 🐦 [**Twitter:** @Ibra_Omar101](https://twitter.com/Ibra_Omar101)
+- 🔗 LinkedIn: linkedin.com/in/IbrahimDev
 
 ---
 
